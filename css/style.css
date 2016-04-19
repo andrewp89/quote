@@ -1,0 +1,61 @@
+body {
+  background: url('http://proof.nationalgeographic.com/files/2016/02/160202-best-of-jan-06.jpg')
+ no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.container {
+
+}
+
+.jumbotron {
+
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: white;
+  opacity: 0.3;
+  
+
+
+}
+h1 {
+  text-align: center;
+   font-family: 'Revalia', cursive;
+  color: white;
+  font-size: 40px;
+   text-shadow: 1px 1px #D9D925;
+  margin-top: -10px;
+  
+
+}
+
+p {
+  font-size: 24px;
+  text-align: center;
+   font-family: 'Revalia', cursive;
+  color: black !important;
+  
+}
+
+img {
+display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.btn {
+  color:black;
+}
+
+
+.btn:hover {
+  opacity: 0.9;
+  color: orange;
+  background-color: white;
+  border-color: black
+  
+}
